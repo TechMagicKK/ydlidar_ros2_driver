@@ -1,0 +1,173 @@
+ydlidar_ros2_driver_node_1:
+  ros__parameters:
+    port: /dev/ttyUSB0
+    frame_id: laser_frame_1
+    ignore_array: ""
+    baudrate: 921600
+    lidar_type: 3
+    device_type: 0
+    isSingleChannel: true
+    intensity: false
+    intensity_bit: 0
+    m1_mode: 0
+    m2_mode: 0
+    m3_mode: 0
+    sample_rate: 9
+    abnormal_check_count: 4
+    fixed_resolution: true
+    reversion: false
+    inverted: true
+    auto_reconnect: true
+    support_motor_dtr: false
+    angle_max: 40.0
+    angle_min: -40.0
+    range_max: 1.0
+    range_min: 0.07
+    frequency: 10.0
+    invalid_range_is_inf: false
+    debug: false
+
+ydlidar_ros2_driver_node_2:
+  ros__parameters:
+    port: /dev/ttyUSB1
+    frame_id: laser_frame_2
+    ignore_array: ""
+    baudrate: 921600
+    lidar_type: 3
+    device_type: 0
+    isSingleChannel: true
+    intensity: false
+    intensity_bit: 0
+    m1_mode: 0
+    m2_mode: 0
+    m3_mode: 0
+    sample_rate: 9
+    abnormal_check_count: 4
+    fixed_resolution: true
+    reversion: false
+    inverted: false
+    auto_reconnect: true
+    support_motor_dtr: false
+    angle_max: 40.0
+    angle_min: -40.0
+    range_max: 1.0
+    range_min: 0.07
+    frequency: 10.0
+    invalid_range_is_inf: false
+    debug: false
+
+ydlidar_ros2_driver_node_3:
+  ros__parameters:
+    port: /dev/ttyUSB2
+    frame_id: laser_frame_3
+    ignore_array: ""
+    baudrate: 921600
+    lidar_type: 3
+    device_type: 0
+    isSingleChannel: false
+    intensity: false
+    intensity_bit: 0
+    m1_mode: 0
+    m2_mode: 0
+    m3_mode: 0
+    sample_rate: 9
+    abnormal_check_count: 4
+    fixed_resolution: true
+    reversion: false
+    inverted: true
+    auto_reconnect: true
+    support_motor_dtr: false
+    angle_max: 40.0
+    angle_min: -40.0
+    range_max: 1.0
+    range_min: 0.07
+    frequency: 10.0
+    invalid_range_is_inf: false
+    debug: false
+
+ydlidar_ros2_driver_node_4:
+  ros__parameters:
+    port: /dev/ttyUSB3
+    frame_id: laser_frame_4
+    ignore_array: ""
+    baudrate: 921600
+    lidar_type: 3
+    device_type: 0
+    isSingleChannel: false
+    intensity: false
+    intensity_bit: 0
+    m1_mode: 0
+    m2_mode: 0
+    m3_mode: 0
+    sample_rate: 9
+    abnormal_check_count: 4
+    fixed_resolution: true
+    reversion: false
+    inverted: true
+    auto_reconnect: true
+    support_motor_dtr: false
+    angle_max: 40.0
+    angle_min: -40.0
+    range_max: 1.0
+    range_min: 0.07
+    frequency: 10.0
+    invalid_range_is_inf: false
+    debug: false
+
+ydlidar_ros2_driver_node_5:
+  ros__parameters:
+    port: /dev/ttyUSB4
+    frame_id: laser_frame_5
+    ignore_array: ""
+    baudrate: 921600
+    lidar_type: 3
+    device_type: 0
+    isSingleChannel: false
+    intensity: false
+    intensity_bit: 0
+    m1_mode: 0
+    m2_mode: 0
+    m3_mode: 0
+    sample_rate: 9
+    abnormal_check_count: 4
+    fixed_resolution: true
+    reversion: false
+    inverted: true
+    auto_reconnect: true
+    support_motor_dtr: false
+    angle_max: 40.0
+    angle_min: -40.0
+    range_max: 1.0
+    range_min: 0.07
+    frequency: 10.0
+    invalid_range_is_inf: false
+    debug: false
+
+ydlidar_ros2_driver_node_6:
+  ros__parameters:
+    port: /dev/ttyUSB5
+    frame_id: laser_frame_6
+    ignore_array: ""
+    baudrate: 921600
+    lidar_type: 3
+    device_type: 0
+    isSingleChannel: false
+    intensity: false
+    intensity_bit: 0
+    m1_mode: 0
+    m2_mode: 0
+    m3_mode: 0
+    sample_rate: 9
+    abnormal_check_count: 4
+    fixed_resolution: true
+    reversion: false
+    inverted: true
+    auto_reconnect: true
+    support_motor_dtr: false
+    angle_max: 40.0
+    angle_min: -40.0
+    range_max: 1.0
+    range_min: 0.07
+    frequency: 10.0
+    invalid_range_is_inf: false
+    debug: false
